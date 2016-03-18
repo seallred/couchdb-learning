@@ -1,0 +1,21 @@
+{
+   "docs" : [
+      {
+         "_id" : "FishStew",
+         "servings" : 4,
+         "subtitle" : "Delicious with fresh bread",
+         "title" : "Fish Stew"
+      },
+      {
+         "_id" : "LambStew",
+         "servings" : 6,
+         "subtitle" : "Delicious with scone topping",
+         "title" : "Lamb Stew"
+      },
+      {
+         "servings" : 8,
+         "subtitle" : "Delicious with suet dumplings",
+         "title" : "Beef Stew"
+      }
+   ]
+}

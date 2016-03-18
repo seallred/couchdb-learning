@@ -1,0 +1,61 @@
+{
+	"probNum":	"123456789",
+	"status":	"Open",
+	"title":	"Cooper",
+	"description":	"Cooper",
+	"severity":		"person",
+	"systemDown":	0,	
+	"requestType": "usage",
+	"customerTrackingId": "",
+	"objectOfService": {
+		"PartId": "1",
+		"ProdId": "1234567",
+		"ProdIdVersion": "1.0",
+		"CompId": "123456789",
+		"CompIdRelease": "1.0",
+		"MachineType": "1234",
+		"MachineModel": "xxx",
+		"MachineSerial": "1234567890"
+	},
+	"contact": {
+		"firstName": "Scott",
+		"lastName": "Allred",
+		"mainPhone": "999-888-8888",
+		"mobilePhone": "913-333-3333",
+		"emailAddress": "sallred@us.ibm.com",
+		"primaryContactMethod": "email"
+	},
+	"location": {
+		"address": "16011 College Blvd",
+		"city": "Lenexa",
+		"state": "KS",
+		"postalCode": "66219",
+		"mainPhone": "999-999-9999",
+		"mainPhoneExt": "xxxx",
+		"locationOfMachine": "Room 204",
+		"verified": 1
+	},
+	"company": {
+		"id": "7777777",
+		"name": "IBM",
+		"isoCountryCode2": "US"
+	},
+	"fileAttachments": {
+		"name": "log.txt",
+		"name": "config.ini"
+	},
+	"interestedUsers": {
+		"id": "name",
+		"10": "Scott Allred"
+	},
+	"hardwareAdditionalInfo": {
+		"errCode": "",
+		"failingComponent": "",
+		"partNumber": "",
+		"deferDate": "",
+		"deferTime": "",
+		"contractNumber": ""
+	}
+}
+
+

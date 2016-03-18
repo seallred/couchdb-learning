@@ -1,0 +1,15 @@
+{
+   "_id": "_design/default",
+   "language": "javascript",
+   "views": {
+       "conflicts": {
+           "map":
+"function(doc) {
+   if (doc._conflicts) {
+       for (var i in doc._conflicts) {
+           emit(doc._conflicts[i]);
+       }
+   }
+}"       }
+   }
+}

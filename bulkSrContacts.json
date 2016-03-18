@@ -1,0 +1,165 @@
+{
+   "contacts" : [
+		{
+			"srcContactId" : 20519,
+			"srcAppl" : "DSW",
+			"firstName" : "Angel",
+			"lastName" : "Fabregat I Murera",
+			"emailAddress" : "angelf@mahou-sanmiguel.com",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20523,
+			"srcAppl" : "DSW",
+			"firstName" : "Bengt",
+			"lastName" : "Olsson",
+			"emailAddress" : "b.olsson@index-traub.se",
+			"ibmUid" : "100000PNEU"
+		},
+		{
+			"srcContactId" : 20526,
+			"srcAppl" : "DSW",
+			"firstName" : "Alois",
+			"lastName" : "Mennel",
+			"emailAddress" : "alois.mennel@pfanner.com",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20527,
+			"srcAppl" : "DSW",
+			"firstName" : "Sylvie",
+			"lastName" : "Birien",
+			"emailAddress" : "sylvie.birien@bouvet-sa.fr",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20518,
+			"srcAppl" : "DSW",
+			"firstName" : "Philippe/Michael",
+			"lastName" : "Vandeputte/GODFRIAUX",
+			"emailAddress" : "philippe.vandeputte@bongrain-benelux.com",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20536,
+			"srcAppl" : "DSW",
+			"firstName" : "Andreas",
+			"lastName" : "Seiler",
+			"emailAddress" : "a.seiler@rexel.at",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20539,
+			"srcAppl" : "DSW",
+			"firstName" : "Alessandro",
+			"lastName" : "Fossi",
+			"emailAddress" : "fossi@unoaerre.it",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20542,
+			"srcAppl" : "DSW",
+			"firstName" : "Dominique",
+			"lastName" : "Duranton",
+			"emailAddress" : "dduranton@senoble.com",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20532,
+			"srcAppl" : "DSW",
+			"firstName" : "Claudio",
+			"lastName" : "Cini",
+			"emailAddress" : "claudio.cini@kme.com",
+			"ibmUid" : "100000CA4F"
+		},
+		{
+			"srcContactId" : 20549,
+			"srcAppl" : "DSW",
+			"firstName" : "Jörg",
+			"lastName" : "Brinkmann",
+			"emailAddress" : "klaus.boehm@lga.de",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20552,
+			"srcAppl" : "DSW",
+			"firstName" : "Pierangelo",
+			"lastName" : "Cagna",
+			"emailAddress" : "pcagna@rubinetteriebresciane.it",
+			"ibmUid" : "270002BAX8"
+		},
+		{
+			"srcContactId" : 20554,
+			"srcAppl" : "DSW",
+			"firstName" : "Philippe",
+			"lastName" : "Peuret",
+			"emailAddress" : "philippe.peuret@Bio-Rad.com",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20545,
+			"srcAppl" : "DSW",
+			"firstName" : "Bernd",
+			"lastName" : "Nordbrock",
+			"emailAddress" : "bnordbrock@nordit.de",
+			"ibmUid" : "1000004GYP"
+		},
+		{
+			"srcContactId" : 20561,
+			"srcAppl" : "DSW",
+			"firstName" : "Brebion",
+			"lastName" : "Patrick",
+			"emailAddress" : "pbrebion@opac44.fr",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20565,
+			"srcAppl" : "DSW",
+			"firstName" : "Philippe",
+			"lastName" : "Martin",
+			"emailAddress" : "pmartin@74.Cerfrance.fr",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 2153585,
+			"srcAppl" : "CAM",
+			"firstName" : "絵梨",
+			"lastName" : "橋本",
+			"emailAddress" : "hashimoto_er@itg.hitachi.co.jp",
+			"ibmUid" : "270006T67N"
+		},
+		{
+			"srcContactId" : 20558,
+			"srcAppl" : "DSW",
+			"firstName" : "Silvana",
+			"lastName" : "Santi",
+			"emailAddress" : "ssanti@unindustria.pd.it",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20575,
+			"srcAppl" : "DSW",
+			"firstName" : "paolo",
+			"lastName" : "diana",
+			"emailAddress" : "diana@mondadori.it",
+			"ibmUid" : "20000037BT"
+		},
+		{
+			"srcContactId" : 20578,
+			"srcAppl" : "DSW",
+			"firstName" : "Walter",
+			"lastName" : "Trainoni",
+			"emailAddress" : "waltertrainoni@tipografiaesperia.it",
+			"ibmUid" : ""
+		},
+		{
+			"srcContactId" : 20569,
+			"srcAppl" : "DSW",
+			"firstName" : "Sig. Paolo",
+			"lastName" : "De Nardi",
+			"emailAddress" : "paolo.denardi@sanita.padova.it",
+			"ibmUid" : ""
+		}
+	]
+}
+
